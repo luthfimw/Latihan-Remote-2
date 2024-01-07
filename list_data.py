@@ -28,8 +28,9 @@ while True:
     
 #mencetak data 
 for i in list_semua:
+    print(f'{"="*10} Berikut ini adalah tampilan data kalian {"="*10}')
     print(f'Nama \t : {i[0]}')
     print(f'Alamat \t : {i[1]}')
     print(f'Kota Asal: {i[2]}')
     print(f'{"="*30}')
-    print('')
+    
