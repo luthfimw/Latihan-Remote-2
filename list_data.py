@@ -32,3 +32,4 @@ for i in list_semua:
     print(f'Alamat \t : {i[1]}')
     print(f'Kota Asal: {i[2]}')
     print(f'{"="*30}')
+    print('')
