@@ -25,7 +25,7 @@ while True:
     if pilihan == 'tidak':
         print(f'{"="*20} TERIMAKASIH TELAH MENGGUNAKAN PROGRAM INI {"="*20}')
         break
-
+    
 #mencetak data 
 for i in list_semua:
     print(f'Nama \t : {i[0]}')
